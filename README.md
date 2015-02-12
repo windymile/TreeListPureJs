@@ -1,5 +1,7 @@
 # TreeListPureJs
-A tree list, which can be expanded or collapsed, was made purely by javascript.
+A tree list, which can be expanded or collaposed.  It can be used to make a directory list or something similar.
+
+No other third party library is required. 100% javascript.
 
 example
 ```html
