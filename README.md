@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
               leaf: true
             }
           ]
-        }
+        },
         {
           text: 'leaf1',
           leaf: true
