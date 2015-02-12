@@ -2,7 +2,7 @@
 A tree list, which can be expanded or collapsed, was made purely by javascript.
 
 example
-On html
+```html
 <ul id="mytree">loading...</ul>
 
 <!-- initialize the tree -->
