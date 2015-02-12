@@ -12,11 +12,13 @@ document.addEventListener("DOMContentLoaded", function(e) {
   var mytree = document.getElementById("mytree");
   //below is the structure of the data input for the tree
   var data = { 
+    //it starts from a root
     root: {
       text: 'root',
       leaf: false,
       children: [
         {
+          // a subtree child
           text: 'node'
           leaf: false,
           children: [
@@ -27,10 +29,12 @@ document.addEventListener("DOMContentLoaded", function(e) {
           ]
         },
         {
+          // a leaf child
           text: 'leaf1',
           leaf: true
         },
         {
+          // a second leaf child
           text: 'leaf2',
           leaf: true
         }
